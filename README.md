@@ -1,1 +1,1 @@
-# Projects from Methods of Statistical Analysis in R
+# Projects from Methods of Applied Stats in R
